@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Dầu Gội Phục Hồi Hư Tổn, Ngăn Rụng Tóc Tsubaki Premium Repair Shampoo 490ml",
+    "price": "139,000",
+    "description": "Dầu gội",
+    "image": "https://product.hstatic.net/1000006063/product/facebook-dynamic-dau-goi-tsubaki-premium-ngan-ngua-rung-toc-490ml-1_c431ddf0c6944f9aa5e6255a1a48c693_1024x1024.jpg",
+    "rating": "4",
+    "quantity": 30
+  },
+  {
+    "id": 2,
+    "name": "[310ml] Dầu Gội Tinh Chất Dầu Bưởi Giúp Giảm Gãy Rụng & Kích Thích Mọc Tóc The Cocoon Pomelo Shampoo",
+    "price": "228,000",
+    "description": "Dầu gội dưỡng",
+    "image": "https://product.hstatic.net/1000006063/product/993_41308a4856b14d47a9fb28de69fbebb4_1024x1024.jpg",
+    "rating": "4.2",
+    "quantity": 65
+  },
+  {
+    "id": 3,
+    "name": "[Black Pink's Choice] Thuốc Gội Nhuộm Tóc Dạng Bọt Mise En Scène Hello Bubble Foam Color",
+    "price": "138,000",
+    "description": "Thuốc gội nhuộm tóc",
+    "image": "https://product.hstatic.net/1000006063/product/f3182909cd17a9b1181655f7c998b364_d531677b9b5645caae505f7002602c67_1024x1024.png",
+    "rating": "4.7",
+    "quantity": 62
+  },
+  {
+    "id": 4,
+    "name": "Xịt Dưỡng Kích Thích Mọc Tóc Dài Khỏe Hairburst Volume & Growth Elixir 125ml",
+    "price": "462,000",
+    "description": "Xịt dưỡng",
+    "image": "https://product.hstatic.net/1000006063/product/2_082420090b20417f9a2be8e791a91927_1024x1024.jpg",
+    "rating": "4.4",
+    "quantity": 27
+  },
+  {
+    "id": 5,
+    "name": "Xịt Dưỡng Ngăn Tóc Gãy Rụng Some By Mi Cica Peptide Anti Hair Loss Derma Scalp Tonic 150ml",
+    "price": "169,000",
+    "description": "Xịt dưỡng",
+    "image": "https://product.hstatic.net/1000006063/product/992_d597ba325c3540938ec34c5122905932_master_dc394818675245fdbba3e007614c8e5b_1024x1024.jpg",
+    "rating": "4.5",
+    "quantity": 40
+  },
+  {
+    "id": 6,
+    "name": "Kem Ủ Phục Hồi Tóc L'Oreal Elseve Total Repair 5 Deep Reparing Mask 200ml",
+    "price": "98,000",
+    "description": "Kem ủ",
+    "image": "https://product.hstatic.net/1000006063/product/kem_u_cho_toc_hu_ton_50a60a6a81fd4a18b4bd8e30ab864343_1024x1024.jpg",
+    "rating": "4.9",
+    "quantity": 23
+  }
+]

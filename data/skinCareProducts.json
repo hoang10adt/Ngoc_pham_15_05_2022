@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Nước Tẩy Trang Làm Sạch Tươi Mát Cho Da Dầu và Nhạy cảm L'Oreal Micellar Water 3-in-1 Refreshing Even For Sensitive Skin 400ml",
+    "price": "136,000",
+    "description": "Nước tẩy trang",
+    "image": "https://product.hstatic.net/1000006063/product/tay_trang_7c423ab0f5b74ba1b8b67c5d987aefd6_1024x1024.jpg",
+    "rating": "4",
+    "quantity": 300
+  },
+  {
+    "id": 2,
+    "name": "Nước Hoa Hồng Không Mùi Dưỡng Ẩm, Làm Dịu Da Klairs Supple Preparation Unscented Toner",
+    "price": "49.000 - 208.000",
+    "description": "Nước hoa hồng",
+    "image": "https://product.hstatic.net/1000006063/product/501367ec48456ec01e1f45eb2c47f9a2_28391104e82842d583a89af156aaedce_1024x1024.jpeg",
+    "rating": "4",
+    "category": [
+      {
+        "id": "180ml",
+        "label": "180ml"
+      },
+      {
+        "id": "30ml",
+        "label": "30ml"
+      }
+    ],
+    "quantity": 69
+  },
+  {
+    "id": 3,
+    "name": "[400ml] Xịt Khoáng Cấp Nước Evoluderm Atomiseur Eau Pure Water",
+    "price": "138,000",
+    "description": "Xịt khoáng",
+    "image": "https://product.hstatic.net/1000006063/product/14cc1b5481b703ba69debd6ac54959c3_2197760305e04b959a9770ebcd97660f_1024x1024.jpeg",
+    "rating": "4",
+    "quantity": 62
+  },
+  {
+    "id": 4,
+    "name": "[Size 50g] Kem Chống Nắng Dưỡng Ẩm Bioré UV Aqua Rich Watery Essence SPF50+/PA++++",
+    "price": "144,000",
+    "description": "Kem chống nắng",
+    "image": "https://product.hstatic.net/1000006063/product/biore_uv_aqua_rich_watery_essence_50g_dd_e94bcef2a1c1423988340dc4d0f5eb35_1024x1024.jpg",
+    "rating": "4.5",
+    "quantity": 27
+  },
+  {
+    "id": 5,
+    "name": "Sữa Dưỡng Ẩm, Ngừa Lão Hóa Meishoku Hyalcollabo Emollient Moisture Emulsion 145ml",
+    "price": "249,000",
+    "description": "Sữa dưỡng ẩm",
+    "image": "https://product.hstatic.net/1000006063/product/1_63951e371ce447ceae2ec51c08ac7732_1024x1024.jpg",
+    "rating": "4.3",
+    "quantity": 6762
+  },
+  {
+    "id": 6,
+    "name": "Mặt Nạ Rửa Dành Cho Da Dầu Và Mụn Ẩn Chiết Xuất Bí Đao The Cocoon Winter Melon Face Mask 30ml",
+    "price": "103,000",
+    "description": "Mặt nạ",
+    "image": "https://product.hstatic.net/1000006063/product/971_bddc7b3aa5f34d15a42c4a3d99361a71_1024x1024.jpg",
+    "rating": "4.8",
+    "quantity": 233
+  }
+]

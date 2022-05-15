@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Nước Hoa Dạng Xịt Không Cồn, Mùi Thơm Dịu Nhẹ Tự Nhiên Paleta Perfume 20ml",
+    "price": "88,000 - 176,000",
+    "description": "Nước hoa",
+    "image": "https://product.hstatic.net/1000006063/product/18_49192b6783a149b589c8dc51b075cdc6_1024x1024.jpg",
+    "rating": "4",
+    "quantity": 30
+  },
+  {
+    "id": 2,
+    "name": "Nước Hoa 2 Đầu Dạng Lăn 4 Mùi Hương Silkygirl EDP Duo Rollerball 10ml",
+    "price": "59,000",
+    "description": "Nước hoa",
+    "image": "https://product.hstatic.net/1000006063/product/210_fce5168e18b5425594a87bbb6b70ad9e_1024x1024.jpg",
+    "rating": "4.2",
+    "quantity": 65
+  },
+  {
+    "id": 3,
+    "name": "Nước Hoa Dạng Xịt De Memoria 30ml",
+    "price": "355,000",
+    "description": "Nước hoa",
+    "image": "https://product.hstatic.net/1000006063/product/44_dd6a3aa865564a2baf6d95ef0318ddf3_1024x1024.jpg",
+    "rating": "4.8",
+    "quantity": 22
+  },
+  {
+    "id": 4,
+    "name": "Xịt Thơm Toàn Thân Hương Nước Hoa Malissa Kiss Body Mist Sunshine 88ml",
+    "price": "137,000",
+    "description": "Xịt thơm",
+    "image": "https://product.hstatic.net/1000006063/product/dd1_e52d6e651fda49d48ae0939de9989c4a_1024x1024.jpg",
+    "rating": "4.4",
+    "quantity": 27
+  },
+  {
+    "id": 5,
+    "name": "Xịt Thơm Toàn Thân Và Tóc Silkygirl Fragrance Mist 50ml",
+    "price": "79,000",
+    "description": "Xịt thơm",
+    "image": "https://product.hstatic.net/1000006063/product/0_2781b67233704128bb8fd41ee6c0f1f4_1024x1024_5a36b970573e4bb1ac68352ff38139ef_1024x1024.jpg",
+    "rating": "4.5",
+    "quantity": 40
+  },
+  {
+    "id": 6,
+    "name": "Xịt Thơm Toàn Thân Hương Nước Hoa Malissa Kiss Perfume Mist - Blossom 88ml",
+    "price": "127,000",
+    "description": "Xịt thơm",
+    "image": "https://product.hstatic.net/1000006063/product/d2_24f59bb5c40848a6b264062630ee6582_1024x1024.jpg",
+    "rating": "4.8",
+    "quantity": 23
+  }
+]

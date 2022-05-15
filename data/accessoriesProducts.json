@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Kéo Trang Điểm Etude My Beauty Tool Beauty Scissors",
+        "price": "69,000",
+        "description": "Kéo Trang điểm",
+        "image": "https://product.hstatic.net/1000006063/product/4042_5c6973bc67e442c4a52d811fc111b176.jpg",
+        "rating": "3.5",
+        "quantity": 78
+      },
+      {
+        "id": 2,
+        "name": "Dao Cạo Chân Mày Vacosi Eyebrow Knife DC06 (Màu Ngẫu Nhiên)",
+        "price": "18,000",
+        "description": "Dao cạo",
+        "image": "https://product.hstatic.net/1000006063/product/4612_3b6f71dbddd649b585e860125479e096_1024x1024.jpg",
+        "rating": "4.5",
+        "quantity": 47
+      },
+      {
+        "id": 3,
+        "name": "[Hộp 200 Cái] Tăm Bông Tippys Cotton Buds Classic",
+        "price": "29,000",
+        "description": "Tăm Bông Tippys",
+        "image": "https://product.hstatic.net/1000006063/product/typpys_chuan_5d76852ab2db45bd8167c73dfcfc62e1_1024x1024.jpg",
+        "rating": "4.5",
+        "quantity": 27
+      },
+      {
+        "id": 4,
+        "name": "[Đầu Cọ Slicone Kháng Khuẩn] Cọ Rửa Mặt Làm Sạch Sâu, Loại Bỏ Bã Nhờn, Mụn Đầu Đen Benton Pore Clear Brush",
+        "price": "219,000",
+        "description": "Cọ rửa mặt",
+        "image": "https://product.hstatic.net/1000006063/product/1_96da1dd901074f19b79eced54a4a5d73_1024x1024.jpg",
+        "rating": "4.7",
+        "quantity": 69
+      },
+      {
+        "id": 5,
+        "name": "[HÀNG NHẬP KHẨU] Lưới Tạo Bọt Rửa Mặt Tiện Dụng Lameila Frothing Net B0025",
+        "price": "19,000",
+        "description": "Lưới tạo bọt",
+        "image": "https://product.hstatic.net/1000006063/product/938_74c2e7f1a4144dc991e0fb23fb1bebde_1024x1024.jpg",
+        "rating": "4.5",
+        "quantity": 62
+      },
+      {
+        "id": 6,
+        "name": "Dụng Cụ Vệ Sinh Cọ Vacosi Brushegg RC01 - Màu Ngẫu Nhiên",
+        "price": "75,000",
+        "description": "Dụng cụ vệ sinh",
+        "image": "https://product.hstatic.net/1000006063/product/69_2a3fe085cea34465a2ca6baf8a26c64f_1024x1024.png",
+        "rating": "3",
+        "quantity": 27
+      }
+]

@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
+}
+button,
+a {
+  transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+}
+
+a,
+a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.makeup {
+  padding-top: 3rem;
+}
+
+body {
+  background-color: #FFFDF5;
+}
+div.header-top{
+  background-color: whitesmoke;
+}
+div.header-nav{
+  background-color: #6762A6;
+}
+h3{
+  font-family: Playball;
+  font-weight: bolder;
+  font-size: xx-large;
+}
+div.input-group-btn{
+  background-color: #6762A6;
+}
+footer{
+  background-color: #6762A6;
+}

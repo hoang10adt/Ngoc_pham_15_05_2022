@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "name": "Phấn Nước Che Phủ Mỏng Mịn, Kiềm Dầu Hiệu Qủa Gilaa Long Wear DD Cushion SPF50/PA+++",
+    "price": "300,000",
+    "description": "Phấn nước Gilla",
+    "image": "https://file.hstatic.net/1000006063/file/5396_afbcfc54116347b68c15cb288f5f0a94_2048x2048.jpg",
+    "rating": "4",
+    "category": [
+      {
+        "id": "#F5E9CD",
+        "label": "01 LIGHT BEIGE"
+      },
+      {
+        "id": "#FFF5C2",
+        "label": "02 NATURAL BEIGE"
+      }
+    ],
+    "quantity": 693
+  },
+  {
+    "id": 2,
+    "name": "Kem Nền Che Phủ Hoàn Hảo, Bền Màu Lâu Trôi Maybelline Super Stay 24H Full Coverage Foundation 30ml",
+    "price": "200,000",
+    "description": "Maybelline Super Stay",
+    "image": "https://product.hstatic.net/1000006063/product/320_1b8694c4fc3247acafc3f58237860923_1024x1024.jpg",
+    "rating": "4.5",
+    "category": [
+      {
+        "id": "#F5E9CD",
+        "label": "01 LIGHT BEIGE"
+      },
+      {
+        "id": "#FFF5C2",
+        "label": "02 NATURAL BEIGE"
+      }
+    ],
+    "quantity": 620
+  },
+  {
+    "id": 3,
+    "name": "Son Thỏi Lì, Lên Màu Chuẩn Lilybyred Mood Cinema Velvet Epilogue 3.5g",
+    "price": "150,000",
+    "description": "Son Lilybyred",
+    "image": "https://product.hstatic.net/1000006063/product/3568_3fd53dfe87e64feeb53a25a3e3f86990_1024x1024.jpg",
+    "rating": "3",
+    "category": [
+      {
+        "id": "red",
+        "label": "01 LOST CHILI"
+      },
+      {
+        "id": "#990033",
+        "label": "02 PLOT BERRY"
+      }
+    ],
+    "quantity": 272
+  },
+  {
+    "id": 4,
+    "name": "Bột Tán Chân Mày Hai Màu Đa Năng 16Brand Brow Magazine 3.6g",
+    "price": "215,000",
+    "description": "Bột Tán Chân Mày",
+    "image": "https://product.hstatic.net/1000006063/product/3645_6437133cae2b47acb743262c35f46b1d_1024x1024.jpg",
+    "rating": "4",
+    "category": [
+      {
+        "id": "#993300",
+        "label": "ASH BROWN"
+      },
+      {
+        "id": "#660000",
+        "label": "COCO BROWN"
+      }
+    ],
+    "quantity": 6762
+  },
+  {
+    "id": 5,
+    "name": "Chì Kẻ Mày Ngang Cho Chân Mày Sắc Nét, Lâu Trôi Romand Han All Flat Brow - Han All Line 0.17g",
+    "price": "129,000",
+    "description": "Chì kẻ mày",
+    "image": "https://product.hstatic.net/1000006063/product/0b1b3d8c9e1e7306123a7c17a7400e75_f59a72f2b7d54704ac939718407b9321.jpeg",
+    "rating": "3",
+    "category": [
+      {
+        "id": "Black",
+        "label": "C1"
+      },
+      {
+        "id": "Brown",
+        "label": "C2"
+      }
+    ],
+    "quantity": 233
+  },
+  {
+    "id": 6,
+    "name": "Bảng Phấn Mắt 9 Màu Moart Drawing Art Shadow Palette 9g",
+    "price": 200.000,
+    "description": "Phấn mắt",
+    "image": "https://product.hstatic.net/1000006063/product/28_e8b580e14700438c8498a3a6d4d9db7a_grande.png",
+    "rating": "4.5",
+    "category": [
+      {
+        "id": "#993333",
+        "label": "1"
+      },
+      {
+        "id": "#FF9900",
+        "label": "2"
+      }
+    ],
+    "quantity": 20
+  }
+]

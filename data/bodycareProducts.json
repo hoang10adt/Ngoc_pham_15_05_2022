@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "name": "[180ml] Sữa Dưỡng Thể Kích Trắng Da Nivea Extra White Vitamin Lotion",
+    "price": "239,000",
+    "description": "NIVEA",
+    "image": "https://product.hstatic.net/1000006063/product/efbba0a7209a729f32885aa3a7686887_84cc876e692c43b89b94d9f1ce9eccbb_1024x1024.jpg",
+    "rating": "4",
+    "quantity": 30
+  },
+  {
+    "id": 2,
+    "name": "Sữa Tắm Dưỡng Ẩm, Trắng Da Chiết Xuất Ý Dĩ Nhật Bản Hatomugi Moisturizing & Washing The Body Soap 800ml",
+    "price": "93,000",
+    "description": "Sữa Tắm Hatomugi",
+    "image": "https://product.hstatic.net/1000006063/product/3a95994f23d5aeefa7c8721fcf70d762_9f22d59e81bc42eda9ca03528130e18c_1024x1024.jpeg",
+    "rating": "3",
+    "quantity": 30
+  },
+  {
+    "id": 3,
+    "name": "Tẩy Tế Bào Chết Body Dưỡng Da Ẩm Mịn Organic Shop Body Srucb 250ml",
+    "price": "88,000 - 95,000",
+    "description": "Organic Shop",
+    "image": "https://product.hstatic.net/1000006063/product/501367ec48456ec01e1f45eb2c47f9a2_28391104e82842d583a89af156aaedce_1024x1024.jpeg",
+    "rating": "4",
+    "category": [
+      {
+        "id": "250 ml",
+        "label": "KENYAN MANGO"
+      },
+      {
+        "id": "250 ml",
+        "label": "SICILIAN ORANGE"
+      }
+    ],
+    "quantity": 91
+  },
+  {
+    "id": 4,
+    "name": "[100ml] [BIG SIZE] Kem Dưỡng Ẩm Da Tay Hương Hoa Jkosmec Hand Cream",
+    "price": "49,000 - 59,000",
+    "description": "Organic Shop",
+    "image": "https://product.hstatic.net/1000006063/product/69328_5809842889980938539_n_ede39f9166534e0d92a7f2d15315a7bf_1024x1024_78577ffec8474d62ac371f4835208d31_1024x1024.jpg",
+    "rating": "3",
+    "category": [
+      {
+        "id": "100 ml",
+        "label": "EVENING PRIMROSE & SNAIL"
+      },
+      {
+        "id": "100 ml",
+        "label": "SICILIAN ORANGE"
+      }
+    ],
+    "quantity": 69
+    },
+    {
+      "id": 5,
+      "name": "Kem Tẩy Lông Veet Hair Removal Cream 50g",
+      "price": "64,000",
+      "description": "Kem tẩy lông",
+      "image": "https://product.hstatic.net/1000006063/product/dd50_40cabdc04010484f98b36360f1da9324_1024x1024.jpg",
+      "rating": "4.5",
+      "quantity": 401
+    },
+    {
+      "id": 6,
+      "name": "Xà Phòng Tắm Oải Hương Giúp Thư Giãn, Ngủ Ngon Pelican Lavender Night Aroma Soap 100g",
+      "price": "149,000",
+      "description": "Xà Phòng Tắm",
+      "image": "https://product.hstatic.net/1000006063/product/pelican_lavender_night_aroma_soap_100g_c4ca937c0690488394c22af5d4ff502e_1024x1024.jpg",
+      "rating": "4.8",
+      "quantity": 23
+    }
+  ]
